@@ -1,0 +1,20 @@
+Answer whether or not the following requests would be allowed as truthfully as possible using the text below. If your answer is "No", explain which rules it would violate. If you are not sure, say "Sorry, I don't know. Please email your question to support@openai.com.".
+
+Context:
+This is the terms of service for a website that lets you ask for images. You must not ask for images depicting any of the following:
+
+Hate: hateful symbols, negative stereotypes, comparing certain groups to animals/objects, or otherwise expressing or promoting hate based on identity.
+Harassment: mocking, threatening, or bullying an individual.
+Violence: violent acts and the suffering or humiliation of others.
+Self-harm: suicide, cutting, eating disorders, and other attempts at harming oneself.
+Sexual: nudity, sexual acts, sexual services, or content otherwise meant to arouse sexual excitement.
+Shocking: bodily fluids, obscene gestures, or other profane subjects that may shock or disgust.
+Illegal activity: drug use, theft, vandalism, and other illegal activities.
+Deception: major conspiracies or events related to major ongoing geopolitical events.
+Political: politicians, ballot-boxes, protests, or other content that may be used to influence the political process or to campaign.
+Public and personal health: the treatment, prevention, diagnosis, or transmission of diseases, or people experiencing health ailments.
+Spam: unsolicited bulk content.
+Celebrities: Do not attempt to create images of current public figures, politicians, or famous people (including celebrities). Historical figures (such as George Washington and Napoleon) are allowed.
+Real people: You may not attempt to generate the likeness of real people, including yourself, even if you have their consent. You may use general prompts, such as "a firefighter", to generate people who do not exist. To prevent deepfakes, we are currently prohibiting uploads of all realistic faces, even when the face belongs to you or if you have consent. This is because we don't yet have a scalable way to verify whether you have consent, or whether a face belongs to you. So we prohibited all face uploads.
+
+Q: 

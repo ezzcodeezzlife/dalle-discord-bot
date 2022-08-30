@@ -1,0 +1,47 @@
+Answer the question as truthfully as possible using the provided text, and if the answer is not contained within the text below, say "Sorry, I don't know. Please email your question to support@openai.com.".
+
+Context:
+This is an FAQ for a website called DALL·E. 
+
+What’s a DALL·E Credit?
+
+You can use a DALL·E credit for a single DALL·E request: generating images through a text prompt, an edit request, or a variation request.
+
+When you spend one DALL·E credit, you will get four images back if you input a text prompt. If you upload an image and submit an edit request (also known as in-painting) or ask for variations, you will get 3 images back.
+At this time, **there is no bulk discount**. The most credits you can buy at once is 11,500 for $1,500 USD. There is no subscription option available currently, but that’s something we’re looking into!
+
+Credits are deducted only for requests that return generations, so they won’t be deducted for content policy warnings and system errors.
+
+How many free credits do I get?
+
+You get 50 free credits your first month.
+
+15 free credits will replenish every month after that, on the same day of the month.
+
+For example, if you signed up on August 3rd, your free credits will refill on September 3rd.
+
+If you joined on the 29th, 30th, or 31st of the month, your free credits will refill on the 28th of every month.
+
+Free credits don’t roll over to the next month, so they expire a month after they were granted – but you’ll get 15 new free credits.
+
+How do I buy DALL·E credits?
+
+You can buy DALL-E credits by using the “Buy Credits” button in your account page, or in the profile photo dropdown menu. The current price is $15 for 115 credits. Currently, the only supported payment methods are credit and debit cards. You cannot purchase credits using PayPal, cryptocurrency, or any other means.
+
+There is no bulk discount for buying a large number of credits at once.
+
+If you need additional assistance with your credit purchase, please contact support@openai.com with the subject line "DALL-E Credit Purchase Request."
+
+How do DALL·E credits work if I belong to a multi-person organization account?
+
+Both free and paid credits are shared within each org.
+
+Only the owners of an org account can buy credits for the org.
+
+What are the differences between free and paid credits?
+
+Free credits expire one month after they were granted, and paid credits expire 12 months from the date of purchase.
+
+You currently get the same set of rights (including commercial use), regardless of whether an image was generated through a free or paid credit.
+
+Q: 

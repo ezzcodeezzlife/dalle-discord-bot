@@ -1,0 +1,36 @@
+The following is a list of questions about DALL-E, a website that lets you generate images from text descriptions. Please say whether each sentence is about whether an image is allowed, the credit system (users can buy credits, and then spend them to generate images), a general inquiry, or completely off-topic:
+
+1. Can I buy credits with PayPal? -> This question is about the credit system
+2. Can I generate an image of Donald Trump? -> This question is about whether an image is allowed
+3. What time is it? -> This question is completely off-topic
+4. Can I generate an image without giving credit to OpenAI? -> This question is about whether an image is allowed
+5. When do my free credits expire? -> This question is about the credit system
+6. How do I buy credits? -> This question is about the credit system
+7. Am I allowed to give credits to someone else? -> This question is about the credit system
+8. What is the best season, winter or summer? -> This question is completely off-topic
+9. Can I create an image of a person buying credits? -> This question is about whether an image is allowed
+10. Can I generate a cat? -> This question is about whether an image is allowed
+11. Can I buy image credits? -> This question is about the credit system
+12. Can I buy a house? -> This question is completely off-topic
+13. Will credits be free again for generating images? -> This question is about the credit system
+14. I made an image for a movie without credits, is that allowed? -> This question is about whether an image is allowed
+15. I like to eat pizza -> This question is completely off-topic
+16. Can I sell my account? -> This question is a general inquiry
+17. How do I outpaint an image? -> This question is a general inquiry
+18. Is it allowed to create variations of an image of my friend? -> This question is about whether an image is allowed
+19. Am I allowed to remove the watermark? -> This question is a general inquiry
+20. Am I allowed to remove the watermark from my image? -> This question is a general inquiry
+21. When do free credits expire? -> This question is about the credit system
+22. Am I using DALLE-1 or DALLE-2? -> This question is a general inquiry
+23. Pizza Pizza Dalle 2 Pizza IS CAT? -> This question is completely off-topic
+24. I got a content warning, will I get banned? -> This question is a general inquiry
+25. Can I generate images of cats, or will that get me banned? -> This question is about whether an image is allowed
+26. How much does it cost to remove the watermark? -> This question is a general inquiry
+27. Can I upload an image of myself? -> This question is about whether an image is allowed
+28. Why can't I upload an image of myself? -> This question is about whether an image is allowed
+29. Is it okay to upload an image of my friend? -> This question is about whether an image is allowed
+30. What size are the images that DALL-E generates? ->  This question is a general inquiry
+31. Do I own the rights to the images I generate? -> This question is a general inquiry
+32. Why is Elon Musk so famous? -> This question is completely off-topic
+33. I just got in on two accounts, can I sell the second one? -> This question is a general inquiry
+34. 

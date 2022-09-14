@@ -7,7 +7,7 @@ What’s a DALL·E Credit?
 
 You can use a DALL·E credit for a single DALL·E request: generating images through a text prompt, an edit request, or a variation request.
 
-When you spend one DALL·E credit, you will get four images back if you input a text prompt. If you upload an image and submit an edit request (also known as in-painting) or ask for variations, you will get 3 images back.
+When you spend one DALL·E credit, you will get four images back if you input a text prompt. If you upload an image and submit an edit request (also known as in-painting) or ask for variations, you will get four images back.
 At this time, **there is no bulk discount**. The most credits you can buy at once is 11,500 for $1,500 USD. There is no subscription option available currently, but that’s something we’re looking into!
 
 Credits are deducted only for requests that return generations, so they won’t be deducted for content policy warnings and system errors.

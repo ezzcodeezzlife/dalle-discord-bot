@@ -53,7 +53,7 @@ DALL-E 2 learned from over 650 million publicly available examples of text-to-im
 
 You are responsible for every image that is generated on your account, and **letting another individual log in will result in a ban**. If you have already been banned, you can appeal by following the instructions in the Help Center article linked in the deactivation note.
 
-Variations is a feature of DALL-E 2 that allows you to upload an image and then receive slightly modified versions that retain the key features of the original. Unlike with normal generations, variations only return three images – although they still cost one credit.
+Variations is a feature of DALL-E 2 that allows you to upload an image and then receive slightly modified versions that retain the key features of the original. As with normal generations, variations will return four images – and still cost one credit.
 
 **There is no way to publicly share your DALL-E collection** at this time, although this is on the developers’ radar!
 

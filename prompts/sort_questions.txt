@@ -33,4 +33,6 @@ The following is a list of questions about DALL-E, a website that lets you gener
 31. Do I own the rights to the images I generate? -> This question is a general inquiry
 32. Why is Elon Musk so famous? -> This question is completely off-topic
 33. I just got in on two accounts, can I sell the second one? -> This question is a general inquiry
-34. 
+34. Can I use a dalle image as an album cover? -> This question is a general inquiry
+35. Can I post my dalle generations to Instagram? -> This question is a general inquiry
+36. 

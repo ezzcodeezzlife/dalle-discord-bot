@@ -1,0 +1,11 @@
+{
+   "name":"openai-dalle-support",
+   "description":"OpenAI Discord Community's GPT-3 powered DALL-E 2 support bot",
+   "homepage":"https://github.com/openai/dalle-discord-bot",
+   "main":"main.js",
+   "dependencies":{
+      "discord.js":"13.8.1",
+      "dotenv":"^16.0.2",
+      "openai":"^3.0.0"
+   }
+}

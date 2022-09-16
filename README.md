@@ -1,3 +1,5 @@
+[![CodeQL](https://github.com/openai/dalle-discord-bot/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/openai/dalle-discord-bot/actions/workflows/codeql-analysis.yml)
+
 # DALL·E Discord Bot
 
 OpenAI Discord Community's GPT-3 powered DALL·E 2 support bot

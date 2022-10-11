@@ -1,0 +1,9 @@
+node_modules
+prompts
+.idea
+.env
+package.json
+package-lock.json
+.gitignore
+.eslint.js
+LICENSE

@@ -1,11 +1,28 @@
 {
-   "name":"openai-dalle-support",
-   "description":"OpenAI Discord Community's GPT-3 powered DALL-E 2 support bot",
-   "homepage":"https://github.com/openai/dalle-discord-bot",
-   "main":"main.js",
-   "dependencies":{
-      "discord.js":"13.8.1",
-      "dotenv":"^16.0.2",
-      "openai":"^3.0.0"
-   }
+   "name": "openai-dalle-support",
+   "description": "OpenAI Discord Community's GPT-3 powered DALL-E 2 support bot",
+   "homepage": "https://github.com/openai/dalle-discord-bot",
+   "main": "src/main.js",
+   "scripts": {
+      "lint": "eslint --fix --ext .js",
+      "format": "prettier --write",
+      "prepare": "husky install"
+   },
+   "dependencies": {
+      "discord.js": "13.8.1",
+      "dotenv": "^16.0.2",
+      "openai": "^3.0.0"
+   },
+   "devDependencies": {
+      "eslint": "^8.24.0",
+      "eslint-config-airbnb-base": "^15.0.0",
+      "eslint-config-prettier": "^8.5.0",
+      "eslint-plugin-import": "^2.26.0",
+      "husky": "^8.0.1",
+      "lint-staged": "^13.0.3",
+      "prettier": "2.7.1"
+   },
+   "lint-staged": {
+      "src/**/*": ["npm run lint", "npm run format"]
+    }
 }
